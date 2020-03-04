@@ -1,0 +1,13 @@
+Conda Forge has a healthy batch of up to date python packages
+
+https://conda-forge.org/
+
+Add Conda Forge to the Anaconda Channels
+-open the terminal
+-Confirm that the env is activated
+conda activate
+
+-Add conda forge
+conda config --add channels conda-forge
+
+-In the IDE refresh the channels
