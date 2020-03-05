@@ -81,17 +81,17 @@ https://askubuntu.com/questions/1017284/cant-create-anaconda-shortcut-to-launch-
 -paste the following text in the document  
 -NOTE: replace the 3 instances of **USERNAME** with your username  
 
-`[Desktop Entry]Version=1.0
-Type=Application
-Name=Anaconda-Navigator
-GenericName=Anaconda
-Comment=Scientific Python Development Environment - Python3
-Exec=bash -c 'export PATH="/home/USERNAME/anaconda3/bin:$PATH" && /home/USERNAME/anaconda3/bin/anaconda-navigator'
-Categories=Development;Science;IDE;Qt;Education;
-Icon=/home/USERNAME/anaconda3/lib/python3.7/site-packages/anaconda_navigator/static/images/anaconda-icon-256x256.png
-Terminal=false
-StartupNotify=true
-MimeType=text/x-python;`
+`[Desktop Entry]Version=1.0  
+Type=Application  
+Name=Anaconda-Navigator  
+GenericName=Anaconda  
+Comment=Scientific Python Development Environment - Python3  
+Exec=bash -c 'export PATH="/home/USERNAME/anaconda3/bin:$PATH" && /home/USERNAME/anaconda3/bin/anaconda-navigator'  
+Categories=Development;Science;IDE;Qt;Education;  
+Icon=/home/USERNAME/anaconda3/lib/python3.7/site-packages/anaconda_navigator/static/images/anaconda-icon-256x256.png  
+Terminal=false  
+StartupNotify=true  
+MimeType=text/x-python;`  
 
 -Save the file  
 -copy the file to /usr/share/applications  
