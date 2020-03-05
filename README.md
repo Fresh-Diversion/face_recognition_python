@@ -5,9 +5,9 @@ This repository holds examples and assets for tracking general faces.
 It does not recognize specific faces. That is in another repo.
 
 The files included are:  
-*0_faceTrack_from_image.py*  
-...1_faceTrack_from_image.py
-...2_faceTrack_from_video.py
+0_faceTrack_from_image.py  
+1_faceTrack_from_image.py  
+2_faceTrack_from_video.py
 
 The names are self-explanitory.  
 Files 0 and 1 do the same thing, but in different ways.
