@@ -17,6 +17,6 @@ These examples can be run from the command line, however, for ease of use and po
 
 Instructions for installing Anaconda3 can be found in this repo. The instructions cover:  
 +++ Download and installation for Linux Mint  
-..*Updating Anaconda3  
-..*Adding the conda-forge channel to Anaconda - the packages there are up to date and it is very nice to have  
-..*Creating an icon and desktop launcher for the Anaconda GUI as the Linux install does not create one  
+..* Updating Anaconda3  
+..* Adding the conda-forge channel to Anaconda - the packages there are up to date and it is very nice to have  
+..* Creating an icon and desktop launcher for the Anaconda GUI as the Linux install does not create one  
