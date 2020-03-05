@@ -13,7 +13,7 @@ https://www.anaconda.com/download/#linux
 -it's ok to leave it there for the installation.
 -If you did not download to your Downloads directory or moved the file, replace ~/Downloads/ with the path to the file you downloaded.
 
--Verify the SHA-526 checksum(Optional but encouraged)
+-Verify the SHA-526 checksum(Optional but encouraged)  
 `sha256sum ~/Downloads/aconda3-2019.10-Linux-x86_64.sh`
 
 -The result should look like something like this:
