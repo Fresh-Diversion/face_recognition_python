@@ -13,7 +13,7 @@ The names are self-explanitory.
 Files 0 and 1 do the same thing, but in different ways.  
 File 2 utilizes a webcam and tracks faces in video  
 
-These examples can be run from the command line, however, for ease of use and portability, they are tested in Anaconda3, using python 3.7.
+These examples are tested in Anaconda3, using python 3.7.
 
 Instructions for installing Anaconda3 can be found in this repo. The instructions cover:  
 * Download and installation for Linux Mint  
