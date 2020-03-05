@@ -1,4 +1,4 @@
-# face_recognition_python
+# face_tracking_python
 
 This repository holds examples and assets for tracking general faces. 
 
