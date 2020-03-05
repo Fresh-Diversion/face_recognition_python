@@ -30,7 +30,8 @@ bash ~/Downloads/Anaconda3-2019.10-Linux-x86_64.sh
 -The installer prompts “Do you wish the installer to initialize Anaconda3 by running conda init?” 
 yes
 
--When asked if the installer should prepend the PATH, type yes
+-The installer prompts if the installer should prepend the PATH
+yes
 
 -There will be a thank you message in the terminal when it is finished
 
