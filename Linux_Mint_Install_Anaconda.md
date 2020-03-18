@@ -57,6 +57,20 @@ Add Conda Forge to the Anaconda Channels
 
 /------------------------------------------------------------------------------------------------------------/
 
+### Controling virtual environments from the CLI
+Thru the CLI currently functions like updating Spyder are broken, however through the command line we have success
+
+-open a new terminal window
+
+Activate an environment
+`conda activate ENVIRONMENT_NAME`
+
+Deactivate an environment
+`conda deactivate`
+
+
+/------------------------------------------------------------------------------------------------------------/
+
 ### To Update Anaconda:
 -open a new terminal window
 
@@ -68,6 +82,12 @@ Add Conda Forge to the Anaconda Channels
 
 -open anaconda navigator  
 `anaconda-navigator`
+
+/------------------------------------------------------------------------------------------------------------/
+
+### To Update Spyder:
+-open a new terminal window
+`conda update spyder`
 
 /------------------------------------------------------------------------------------------------------------/
 
