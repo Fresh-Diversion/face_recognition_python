@@ -100,7 +100,8 @@ https://askubuntu.com/questions/1017284/cant-create-anaconda-shortcut-to-launch-
 -NOTE: replace the 3 instances of **USERNAME** with your username  
 
 ```
-[Desktop Entry]Version=1.0  
+[Desktop Entry]  
+Version=1.0  
 Type=Application  
 Name=Anaconda-Navigator  
 GenericName=Anaconda  
